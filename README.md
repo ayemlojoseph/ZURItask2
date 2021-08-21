@@ -1,2 +1,2 @@
 # ZURItask2
-This is simple Resume for Zuri intership
+This is a simple Resume for Zuri intership
